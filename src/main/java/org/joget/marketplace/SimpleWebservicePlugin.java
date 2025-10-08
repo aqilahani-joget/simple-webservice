@@ -22,7 +22,7 @@ public class SimpleWebservicePlugin extends ExtDefaultPlugin implements PluginWe
 
     @Override
     public String getVersion() {
-        return "8.0.0";
+        return "9.0.0";
     }
 
 
